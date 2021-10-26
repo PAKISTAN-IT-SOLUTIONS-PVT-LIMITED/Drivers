@@ -1,0 +1,6 @@
+package com.pits.driver
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

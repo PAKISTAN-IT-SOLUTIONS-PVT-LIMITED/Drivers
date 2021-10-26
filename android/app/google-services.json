@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "594646766582",
+    "project_id": "fashion-7041b",
+    "storage_bucket": "fashion-7041b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594646766582:android:92df898d65537ea1376dd7",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594646766582-0v88aiifgm1g3furkng9f5cetokuc45l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin",
+            "certificate_hash": "79f3c7aff1a3f8eebae3e91bc3b6dd1a7c9a1d03"
+          }
+        },
+        {
+          "client_id": "594646766582-e0o7fck1vg6vgkrka6ugui62k9u3hi19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_67iIiiKtnDsjmF7HnPlJdr0DFZu1LDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594646766582-e0o7fck1vg6vgkrka6ugui62k9u3hi19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594646766582:android:016efcefb8b60545376dd7",
+        "android_client_info": {
+          "package_name": "com.pits.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594646766582-m3ige58mm1qb0c1h9dctfnvna6teg8oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pits.driver",
+            "certificate_hash": "79f3c7aff1a3f8eebae3e91bc3b6dd1a7c9a1d03"
+          }
+        },
+        {
+          "client_id": "594646766582-e0o7fck1vg6vgkrka6ugui62k9u3hi19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_67iIiiKtnDsjmF7HnPlJdr0DFZu1LDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594646766582-e0o7fck1vg6vgkrka6ugui62k9u3hi19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594646766582:android:77acce614ace7129376dd7",
+        "android_client_info": {
+          "package_name": "com.pits.fashion_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594646766582-m4nn74iksm96pvvq32ikan8ni6vumfib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pits.fashion_app",
+            "certificate_hash": "79f3c7aff1a3f8eebae3e91bc3b6dd1a7c9a1d03"
+          }
+        },
+        {
+          "client_id": "594646766582-e0o7fck1vg6vgkrka6ugui62k9u3hi19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_67iIiiKtnDsjmF7HnPlJdr0DFZu1LDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594646766582-e0o7fck1vg6vgkrka6ugui62k9u3hi19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
